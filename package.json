@@ -1,0 +1,32 @@
+{
+  "name": "configure-me",
+  "version": "1.0.0",
+  "description": "A command line interface tool that generates config files for discord.js",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "keywords": [
+    "discord",
+    "cli",
+    "config",
+    "me",
+    "configure",
+    "configure-me",
+    "atd",
+    "ashtonthedeveloper",
+    "generator",
+    "simple",
+    "easy",
+    ".json",
+    "json",
+    "env",
+    ".env"
+  ],
+  "author": "AshtonTheDeveloper",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
